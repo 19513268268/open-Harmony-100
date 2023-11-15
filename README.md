@@ -3,3 +3,4 @@
 # open Harmony-100 
 ![]{https://github.com/19513268268/open-Harmony-100/blob/main/images/%E5%BE%AE%E4%BF%A1.png}
 ![微信.png](微信.png)
+![屈膝.gif](images/屈膝.gif)
